@@ -1,0 +1,35 @@
+{
+  "name": "kith",
+  "version": "1.1.0",
+  "exports": {
+    "import": "./lib/kith.js",
+    "require": "./lib/kith.cjs"
+  },
+  "type": "module",
+  "description": "Your key to stronger passwords",
+  "main": "./lib/kith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/kith.js.git"
+  },
+  "keywords": [
+    "kith",
+    "password",
+    "passwords",
+    "password-generator",
+    "password-strength",
+    "password-strength-rate",
+    "password-checker",
+    "pass",
+    "password-js"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/kith.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/kith.js#readme"
+}
